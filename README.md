@@ -1,0 +1,1 @@
+This project will create a simple recipe website. I will create index.html file firlst followed by some recipe pages that will be linked to this homepage. The exercise will utilize the HTML skills I have learned so far in The Odin Project Foundations course.
