@@ -1,0 +1,40 @@
+/* style.css */
+
+.button {
+   background-color: cyan;
+   border-style: outset;
+}
+
+#homeTitle {
+   text-align: center;
+   text-decoration: underline;
+}
+
+.recipe-img {
+   width: 282px;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%
+}
+
+.recipe.name {
+   text-align: center;
+}
+
+.recipe.subsection {
+   font-size: 20px;
+}
+
+.steps {
+   font-size: 18px;
+}  
+
+.ingredients {
+   font-size: 18px;
+}
+
+div.description {
+   text-align: center;
+}
